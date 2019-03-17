@@ -1,7 +1,8 @@
 # Bypass Prosthesis
 A bypass prostheses enables the use of the Bento Arm with able-bodied persons as a wearable trans-radial prosthesis simulator. A wrist splint restricts the use of biological wrist and hand function, and provides the attachment point for the Bento Arm. The prosthesis can be controlled either by myoelectric control or by the built-in thumb joystick.
 
-##Notes On Using This Bypass Prosthesis For Research:
+## Notes On Using This Bypass Prosthesis For Research:
+
 This device is not intended as a substitute for research conducted with prosthesis-users, but to facilitate rapid design iterations in the early stages of testing. There are a number of known limitations to conducting research with simulated prostheses:
 * Added limb-length affects movement strategies and can introduce compensatory movements. This setup adds approximately 26 cm to the length of the user's arm.
 * Additional weight on the arm can cause participant fatigue. Every effort has been made to reduce distal weight on this device; in total it adds 550 g to the arm.
