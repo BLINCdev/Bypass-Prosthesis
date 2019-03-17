@@ -10,8 +10,7 @@ This device is not intended as a substitute for research conducted with prosthes
 ## Included Files
 
 * __3D Print Files:__ The folder that contains the STL files for 3D printing. These parts are designed for printing in PLA on a Makerbot Replicator 2. NOTE: The STL files have been adjusted to print with proper tolerances in the PLA material.
-* __Wiring Diagram:__ provides the necessary connections for proper function, including joystick control, LED indicators, and Bento Arm wiring as modified for use in the bypass prosthesis.
-* __Bill of Materials:__ a list of all off-the-shelf materials used in construction of the bypass prosthesis. Note: We have listed the distributors that we have used in the past as a point of reference, but be aware that there are multiple distributor options for each part and that we do not endorse the listed distributors in any way.
+* __Bypass Prosthesis Wiring Diagram:__ provides the necessary connections for proper function, including joystick control, LED indicators, and Bento Arm wiring as modified for use in the bypass prosthesis.
 
 ## Contributing
 You can share your experience, new design, ideas, feature requests, or questions on the [BlincDev project forum](https://blincdev.ca/forum/).
